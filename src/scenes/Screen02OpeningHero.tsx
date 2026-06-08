@@ -332,7 +332,7 @@ const TranslateWindow: React.FC<{ active: boolean }> = ({ active }) => {
   );
 };
 
-export const Screen01OpeningHero: React.FC = () => {
+export const Screen02OpeningHero: React.FC = () => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const pdfSpring = spring({ frame: frame - TIMING.pdfIn, fps, config: { damping: 18, stiffness: 120 } });

@@ -2,6 +2,13 @@
 
 ## 2026-06-08
 
+- Added `content.md` with the approved 17-screen HotLingo video script and created `plan-screens-04-17.md` for the remaining screen rollout.
+- Updated `Screen03ProblemContext` with sharp coded product cards that use HotLingo image assets only inside preview/avatar areas.
+- Added HotLingo preview assets for chat avatars, story thumbnails, PDF/image previews, and context references.
+- Aligned scene naming and composition order with the approved script: global language context, personal pain point, and problem context.
+- Added `Screen03ProblemContext`, a 6-second everyday foreign-language context overview scene.
+- Added floating work, chat, entertainment, and locked PDF/image cards with soft SaaS animations.
+- Registered the new Screen 03 Remotion composition at 180 frames.
 - Added `Screen02GlobeLanguages`, a compact 8-second multilingual globe scene for the HotLingo video.
 - Added a soft 2D globe, dashed airplane orbit, pulsing region lights, and staged language badge waves.
 - Added floating content-type icons for messages, documents, video, and PDF with absorb-into-globe animation.

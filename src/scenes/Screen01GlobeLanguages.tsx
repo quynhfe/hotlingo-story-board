@@ -155,7 +155,7 @@ const BadgeLayer: React.FC = () => {
   );
 };
 
-export const Screen02GlobeLanguages: React.FC = () => {
+export const Screen01GlobeLanguages: React.FC = () => {
 
   return (
     <AbsoluteFill style={{ background: COLORS.background, fontFamily: FONT_FAMILY, overflow: "hidden" }}>
