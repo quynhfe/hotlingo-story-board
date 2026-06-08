@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-06-08
+
+- Added `Screen02GlobeLanguages`, a compact 8-second multilingual globe scene for the HotLingo video.
+- Added a soft 2D globe, dashed airplane orbit, pulsing region lights, and staged language badge waves.
+- Added floating content-type icons for messages, documents, video, and PDF with absorb-into-globe animation.
+- Added a final `100+ ngôn ngữ phổ biến` badge and cleaner end-state badge composition.
+- Registered the new Screen 02 Remotion composition at 240 frames.
+
 ## 2026-06-07
 
 - Rebuilt the opening hero PDF demo as HTML-rendered document content.
