@@ -1,0 +1,130 @@
+Create a Remotion product intro video for HotLingo in Vietnamese.
+
+Style:
+- Keep the visual style aligned with https://www.hotlingo.vn/
+- clean, modern, playful SaaS style
+- bright background
+- blue/teal primary accents
+- white rounded cards
+- subtle shadows
+- smooth motion
+- desktop utility app vibe
+- 16:9, around 60–75 seconds
+
+Video structure:
+
+Scene 1: Globe intro
+- Show a clean 2D globe in the center
+- A small airplane flies around the globe across regions
+- As the airplane moves, language badges appear around the globe
+- Headline: "Thế giới có rất nhiều ngôn ngữ"
+- Subheadline: "HotLingo giúp bạn hiểu nội dung toàn cầu ngay trên màn hình"
+
+Scene 2: Language badges
+Display the following languages as animated pill badges in multiple waves, not all at once:
+- Tiếng Việt
+- Tiếng Anh
+- Tiếng Nhật
+- Tiếng Hàn
+- Tiếng Trung giản thể
+- Tiếng Trung phồn thể
+- Tiếng Pháp
+- Tiếng Đức
+- Tiếng Tây Ban Nha
+- Tiếng Bồ Đào Nha
+- Tiếng Ý
+- Tiếng Nga
+- Tiếng Thái
+- Tiếng Indonesia
+- Tiếng Ả Rập
+- Tiếng Hindi
+- Tiếng Bengal
+- Tiếng Ba Tư
+- Tiếng Thổ Nhĩ Kỳ
+- Tiếng Ba Lan
+- Tiếng Ukraina
+- Tiếng Mã Lai
+- Tiếng Hà Lan
+- Tiếng Philippines
+- Tiếng Romania
+- Tiếng Miến Điện
+- Tiếng Khmer
+- Tiếng Lào
+- Final label: "28+ ngôn ngữ phổ biến"
+
+Scene 3: Problems
+Show 4 problem cards:
+1. Reading foreign documents
+2. Chatting with foreign clients
+3. Translating non-selectable text in images / PDFs / subtitles
+4. Switching tabs repeatedly
+Text:
+- "Đọc tài liệu nước ngoài mất thời gian"
+- "Chat đa ngôn ngữ nhưng cứ phải copy-paste"
+- "Nhiều nội dung không thể chọn text để dịch"
+- "Mất flow. Mất tập trung. Mất thời gian."
+
+Scene 4: Pain points
+Show a workflow:
+Copy text -> Open translator -> Paste -> Read -> Return to work -> Repeat
+Main text:
+"Vấn đề không phải là không có công cụ dịch"
+"Mà là công cụ hiện tại làm gián đoạn công việc"
+
+Scene 5: Alternatives / competitors
+Show 3 cards:
+1. Google Translate
+- familiar, free
+- but requires switching tabs and copy-paste
+2. Browser translation
+- useful for web pages
+- but limited outside browser
+3. Separate OCR tools
+- can handle hard text
+- but workflow is fragmented
+Bottom conclusion:
+"Người dùng không thiếu công cụ dịch"
+"Họ thiếu một công cụ dịch tiện ngay trong luồng làm việc"
+
+Scene 6: HotLingo solution
+Show 4 mini demos:
+1. Select text and press shortcut, translation appears next to cursor
+2. OCR region select for image/PDF/subtitle
+3. Toggle between Google Translate and AI Translation
+4. Works across browser, PDF, chat, document, video
+Main text:
+"HotLingo giải quyết việc đó như thế nào?"
+Captions:
+- "Dịch ngay tại chỗ"
+- "Không cần rời ứng dụng"
+- "Dịch cả nội dung không thể bôi đen"
+- "Linh hoạt: miễn phí khi cần nhanh, AI khi cần tự nhiên hơn"
+
+Scene 7: Use cases
+Show 4 use cases:
+- Đọc tài liệu / research
+- Chat với khách hàng, đối tác
+- Dịch subtitle / video / ảnh
+- Học ngoại ngữ mỗi ngày
+Main text:
+"Dành cho học tập, công việc và giao tiếp quốc tế"
+
+Scene 8: CTA
+Main text:
+"HotLingo"
+"Dịch bất cứ đâu. Không rời luồng làm việc."
+Subtext:
+"Hỗ trợ nhiều ngôn ngữ phổ biến"
+"Tập trung hơn. Dịch nhanh hơn. Làm việc mượt hơn."
+CTA button:
+"Tải ngay tại hotlingo.vn"
+
+Implementation requirements:
+- Use React + Remotion
+- Create reusable components
+- Smooth animation: fade in, slide up, scale, spring, floating movement
+- Use pill badges for languages
+- Use a cute simple 2D globe and airplane animation
+- Use HTML/CSS only, no external image assets required
+- Keep all copy text in a constants file
+- Organize scene files clearly
